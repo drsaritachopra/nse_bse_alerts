@@ -1,0 +1,6 @@
+kivy==2.2.1
+requests
+beautifulsoup4
+lxml
+plyer
+pytz
